@@ -1,0 +1,27 @@
+#site{
+  width:100px;
+  height:700px;
+  margin-top:0;
+  margin-left:auto;
+  margin-bottom:0;
+  margin-right:auto;
+  background-color:lightblue;
+}
+
+#header{
+  width:1000px;
+  height:400px;
+  background-color:lightskyblue;
+  }
+    
+#cuerpo{
+  width:1000px;
+  height:1900px;
+  background-color:lightcyan;
+}
+    
+#footer{
+  width:1000px;
+  height:100px;
+  background-color:lightsteelblue;
+}
